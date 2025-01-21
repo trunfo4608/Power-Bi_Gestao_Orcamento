@@ -5,7 +5,7 @@
 	
 2 -  Relatório possui um StoryTelling com cartões onde mostra o valor orçado, valor realizado e o valor
      de saldo, indicador de valor orçado x valor gasto(KPI'S). Também possui um gráfico de barras onde mostra
-	 os valores gastos x orçados por filial, gráfico de rosta com os percentuais gasto pelo orçado, outro gráfico 
+	 os valores gastos x orçados por filial, gráfico de rosca com os percentuais gasto pelo orçado, outro gráfico 
 	 de barras com valores gastos por mês.
 	 
 	 
@@ -16,7 +16,6 @@
 	
 4 - Estrutura do relatório: 1 tabela dimensão, 2 tabelas fato(Valor Orçado e Valor gasto), 1 tabela de tempo e 1 tabela de medida.	
 	
-
 
 OBS: O DashBoard se encontra disponível no [link](https://app.powerbi.com/reportEmbed?reportId=943d5dd8-f382-4d0f-8381-ade992e210e7&autoAuth=true&ctid=72713a7c-8d7e-46d7-81d1-539fb9c32b8c)
      a seguir.
